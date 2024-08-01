@@ -29,13 +29,13 @@ function Conteudo (){
                         <img src={Quatro4} className="imgConteudo"  width="300px" />
                     </div>
                     <div className="imagem4">
-                        <img src={quarto5} className="imgConteudo"    width="310px" />
+                        <img src={quarto5} className="imgConteudo"    width="300px" />
                     </div>
                     <div className="image5">
-                        <img src={Quarto3} className="imgConteudo"  width="290px" />
+                        <img src={Quarto3} className="imgConteudo"  width="270px" />
                     </div> 
                     <div className="imagem6">
-                        <img src={Quarto6} className="imgConteudo"  width="310px" />
+                        <img src={Quarto6} className="imgConteudo"  width="300px" />
                     </div>
                 </div>
 

@@ -14,6 +14,7 @@ function Header(){
 
                <div className="menu"> 
                    <ul>
+                      <li><Link>Página Inicial</Link></li>
                       <li><Link>Reservas</Link></li>
                       <li><Link>Localização</Link></li>
                    </ul>
