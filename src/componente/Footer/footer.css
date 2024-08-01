@@ -1,0 +1,26 @@
+footer{
+    height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.linha{
+    border-top: black solid 1px;
+    width: 700px;
+}
+h2{
+    margin-top: 20px;
+}
+@media(max-width:1000px){
+    .linha{
+        width: 300px;
+    }
+    footer{
+        width: 100%;
+    }
+    h2{
+        font-size: 18px;
+    }
+}

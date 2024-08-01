@@ -4,8 +4,8 @@ import Conteudo from "../componente/conteudo/Contuedo"
 function Home(){
     return(
         <div>
-          <Header/>
           <Conteudo/>
+          
         </div>
     )
 }
