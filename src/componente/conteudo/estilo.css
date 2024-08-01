@@ -58,15 +58,21 @@ p{
 .praiaGaleria{
     display: flex;
 }
-@media(max-width:900px){
+@media(max-width:1200px){
     .menu{
+        width: 100%;
+    }
+    .sobre{
+        width: 300px;
+    }
+    .containerCentral{
         width: 100%;
     }
     .h2Conteudo{
         font-size: 22px;
     }
     .ContainerImg{
-        width: 100%;
+        width: 300px;
     }
     .imgConteudo{
        margin: 10;
